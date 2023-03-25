@@ -1,0 +1,11 @@
+D:\vsprojects\Saper\bin\Debug\Saper.exe.config
+D:\vsprojects\Saper\bin\Debug\Saper.exe
+D:\vsprojects\Saper\bin\Debug\Saper.pdb
+D:\vsprojects\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\vsprojects\Saper\obj\Debug\Saper.Form1.resources
+D:\vsprojects\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\vsprojects\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\vsprojects\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+D:\vsprojects\Saper\obj\Debug\Saper.exe
+D:\vsprojects\Saper\obj\Debug\Saper.pdb
+D:\vsprojects\Saper\obj\Debug\Saper.Vhod.resources
